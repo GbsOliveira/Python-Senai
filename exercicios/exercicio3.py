@@ -1,0 +1,10 @@
+print("---Descobrindo os tipos---")
+palavra = input("informe a palavra escolhida: ")
+num_int = input("informe um num inteiro: ")
+num_decimal = input("informe o num decimal: ")
+
+num_int = int(num_int)
+num_decimal = float(num_decimal)
+print(type(palavra))
+print(type(num_int))
+print(type(num_decimal))
