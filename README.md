@@ -15,3 +15,9 @@
 - Titulo: Votação de Representantes
 - Objetivo: Calcular o vencedor
 <img width="1615" height="693" alt="Captura de tela 2026-08-15 152856" src="https://github.com/user-attachments/assets/e3fefb3c-6c70-446d-abf2-08c5f5dafa20" />
+
+-------------------------------------------------------------------------------------------------------
+
+- Titulo: Calculadora Soma-Substração-Multiplicação/Dividir
+- Objetivo: Calcular as funções básicas
+<img width="1882" height="937" alt="Captura de tela 2026-08-15 163013" src="https://github.com/user-attachments/assets/a18d34a9-4a50-47f4-a9cc-f34eeea0c158" />
