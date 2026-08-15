@@ -1,10 +1,13 @@
-print("---Descobrindo os tipos---")
-palavra = input("informe a palavra escolhida: ")
-num_int = input("informe um num inteiro: ")
-num_decimal = input("informe o num decimal: ")
+#Area e perimetro
 
-num_int = int(num_int)
-num_decimal = float(num_decimal)
-print(type(palavra))
-print(type(num_int))
-print(type(num_decimal))
+def medidas (b, a):
+    area = b * a
+    perimetro = 2 * (b + a)
+    return area, perimetro
+
+#print (medidas(20, 20))
+base = float(input("Digite o valor da base: "))
+altura = float(input("Digite o valor da altura: "))
+
+area, perimetro = medidas(base, altura)
+print(f"Área: {area:.2f}, \nPerímetro: {perimetro:.2f}")
