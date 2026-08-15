@@ -9,3 +9,9 @@
 - Titulo: Calculadora de Ingressos
 - Objetivo: Calcular o valor de ingressos incluindo meia
 <img width="1478" height="828" alt="Captura de tela 2026-08-15 091241" src="https://github.com/user-attachments/assets/41af59a6-43da-4ca3-be01-1f35ffa48030" />
+
+-------------------------------------------------------------------------------------------------------
+
+- Titulo: Votação de Representantes
+- Objetivo: Calcular o vencedor
+<img width="1615" height="693" alt="Captura de tela 2026-08-15 152856" src="https://github.com/user-attachments/assets/e3fefb3c-6c70-446d-abf2-08c5f5dafa20" />
